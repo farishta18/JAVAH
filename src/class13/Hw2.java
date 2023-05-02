@@ -4,8 +4,8 @@ public class Hw2 {
     public static void main(String[] args) {
         /*
         How would you check if String is palindrome or not? aba=> true
-        Abbc =>false
-         */
+        Abbc =>false*/
+
 
         String palindro="Abbc";
         palindro.replace(" ","");
@@ -30,6 +30,5 @@ public class Hw2 {
 
         }
 
-        
     }
 }
