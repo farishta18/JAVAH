@@ -40,13 +40,5 @@ public class hwStudent {
 
     }
 }
-/*
-char grade=whatGrade.studentGrader(65);
-        System.out.println(grade);
 
-        task4 obj=new task4();
-        int score=78;
-        String result=obj.getGrade(score);
-        System.out.println(result);
- */
 
